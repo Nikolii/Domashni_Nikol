@@ -6,7 +6,7 @@
 void Type ## _ ## Name ## _command(void); \
 }
 
-void internal_quit_command()
+void internals_quit_command()
 {
   printf("\nYes!");
 }
