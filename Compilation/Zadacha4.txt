@@ -1,0 +1,2 @@
+gcc Domashno_4.c -o Domashno_4.exe -lm
+./Domashno_4.exe
